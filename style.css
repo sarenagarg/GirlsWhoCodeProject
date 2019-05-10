@@ -1,4 +1,7 @@
 body {
-   background-color: rgb(177, 156, 217);
-  font-family: Arial;
+  #grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: linear-gradient(red, yellow);
+}
 }
